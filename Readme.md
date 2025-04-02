@@ -1,4 +1,4 @@
-# 🎭 Playwright Pilot Project for Petsure
+# 🎭 Playwright Pilot Project for Pet
 
 ## Playwright for Java docs
 
